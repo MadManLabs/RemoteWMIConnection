@@ -1,0 +1,14 @@
+C:\Users\jmiller\source\repos\RemoteAPC\RemoteAPC\bin\Debug\RemoteAPC.exe.config
+C:\Users\jmiller\source\repos\RemoteAPC\RemoteAPC\bin\Debug\RemoteAPC.exe
+C:\Users\jmiller\source\repos\RemoteAPC\RemoteAPC\bin\Debug\RemoteAPC.pdb
+C:\Users\jmiller\source\repos\RemoteAPC\RemoteAPC\obj\Debug\RemoteAPC.csprojAssemblyReference.cache
+C:\Users\jmiller\source\repos\RemoteAPC\RemoteAPC\obj\Debug\RemoteAPC.Form1.resources
+C:\Users\jmiller\source\repos\RemoteAPC\RemoteAPC\obj\Debug\RemoteAPC.Properties.Resources.resources
+C:\Users\jmiller\source\repos\RemoteAPC\RemoteAPC\obj\Debug\RemoteAPC.csproj.GenerateResource.cache
+C:\Users\jmiller\source\repos\RemoteAPC\RemoteAPC\obj\Debug\RemoteAPC.csproj.CoreCompileInputs.cache
+C:\Users\jmiller\source\repos\RemoteAPC\RemoteAPC\obj\Debug\RemoteAPC.exe
+C:\Users\jmiller\source\repos\RemoteAPC\RemoteAPC\obj\Debug\RemoteAPC.pdb
+C:\Users\jmiller\source\repos\RemoteAPC\RemoteAPC\obj\Debug\RemoteAPC.Form2.resources
+C:\Users\jmiller\source\repos\RemoteAPC\RemoteAPC\bin\Debug\System.Management.Automation.dll
+C:\Users\jmiller\source\repos\RemoteAPC\RemoteAPC\obj\Debug\RemoteAPC.csproj.CopyComplete
+C:\Users\jmiller\source\repos\RemoteAPC\RemoteAPC\obj\Debug\RemoteAPC.Form3.resources
